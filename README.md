@@ -1,8 +1,8 @@
 # Exercise-7-Read-and-Extract-Text-from-PDF
 
 ~~~
-Name : M.JohnPall 
-Reg.No : 212224040140 
+Name : FRANKLIN.F 
+Reg.No : 212224240041
 ~~~
 
 ## Aim
